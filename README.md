@@ -7,6 +7,8 @@
 ### Music Representation Learning and Generation
 
 * EC2VAE https://github.com/buggyyang/Deep-Music-Analogy-Demos
+* PianoTree VAE https://github.com/ZZWaang/PianoTree-VAE
+* Polyphonic Chord Texture Disentanglement https://github.com/ZZWaang/polyphonic-chord-texture-disentanglement
 * MuseBERT https://github.com/ZZWaang/musebert
 * Accomontage https://github.com/zhaojw1998/AccoMontage
 * Hierarchical EC2VAE https://github.com/SqWei17/hierarachical-ec2vae
