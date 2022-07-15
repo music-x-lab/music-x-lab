@@ -1,5 +1,9 @@
 ## Music X Lab Repositories
 
+![logo](https://user-images.githubusercontent.com/13694510/179214075-0fe74e9e-a807-4883-9ed7-c78dc5b7f306.jpg)
+* Music X Lab Website: http://www.musicxlab.com/
+* Publication List: http://www.musicxlab.com/#/publications
+
 ### Datasets & MIR
 
 * POP909: a dataset for music arrangement generation, https://github.com/music-x-lab/POP909-Dataset
