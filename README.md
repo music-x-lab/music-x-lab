@@ -3,6 +3,7 @@
 ### Datasets & MIR
 
 * POP909: a dataset for music arrangement generation, https://github.com/music-x-lab/POP909-Dataset
+* Automatic Audio-to-symbolic Arrangement, https://github.com/ZZWaang/audio2midi
 * A Unified Model for Zero-shot Music Source Separation, Transcription and Synthesis, https://github.com/kikyo-16/a-unified-model-for-zero-shot-musical-source-separation-transcription-and-synthesis
 
 ### Music Representation Learning and Generation
@@ -16,3 +17,5 @@
 * Discovering Music Relations with Sequential Attention, https://github.com/music-x-lab/SeqAttn
 * BUTTER: A Representation Learning Framework for Bi-directional Music-Sentence Retrieval and Generation, https://github.com/ldzhangyx/BUTTER
 
+### Haptic Music Tutoring
+* A Computer-aided Multimodal Music Learning System with Curriculum: A Pilot Study, https://github.com/Daniel-Chin/A-V-H-General-Music-Tutoring-2022/
