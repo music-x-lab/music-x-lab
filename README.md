@@ -23,3 +23,5 @@
 
 ### Haptic Music Tutoring
 * A Computer-aided Multimodal Music Learning System with Curriculum: A Pilot Study, https://github.com/Daniel-Chin/A-V-H-General-Music-Tutoring-2022/
+* Hyper-hybrid Flute: Simulating and Augmenting How Breath Affects Octave and Microtone, https://github.com/Daniel-Chin/HHF
+
