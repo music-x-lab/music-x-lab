@@ -9,6 +9,7 @@
 * POP909: a dataset for music arrangement generation, https://github.com/music-x-lab/POP909-Dataset
 * Automatic Audio-to-symbolic Arrangement, https://github.com/ZZWaang/audio2midi
 * A Unified Model for Zero-shot Music Source Separation, Transcription and Synthesis, https://github.com/kikyo-16/a-unified-model-for-zero-shot-musical-source-separation-transcription-and-synthesis
+* Hierarchical Metrical Structure Analysis, https://github.com/music-x-lab/Hierarchical-Metrical-Structure
 
 ### Music Representation Learning and Generation
 
