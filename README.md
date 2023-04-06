@@ -7,6 +7,7 @@
 ### Datasets & MIR
 
 * POP909: a dataset for music arrangement generation, https://github.com/music-x-lab/POP909-Dataset
+* Large Vocabulary Chord Transcription via Structrual Decomposition: https://github.com/music-x-lab/ISMIR2019-Large-Vocabulary-Chord-Recognition
 * Automatic Audio-to-symbolic Arrangement, https://github.com/ZZWaang/audio2midi
 * A Unified Model for Zero-shot Music Source Separation, Transcription and Synthesis, https://github.com/kikyo-16/a-unified-model-for-zero-shot-musical-source-separation-transcription-and-synthesis
 * Hierarchical Metrical Structure Analysis, https://github.com/music-x-lab/Hierarchical-Metrical-Structure
