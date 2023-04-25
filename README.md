@@ -11,7 +11,6 @@
 * A Unified Model for Zero-shot Music Source Separation, Transcription and Synthesis, https://github.com/kikyo-16/a-unified-model-for-zero-shot-musical-source-separation-transcription-and-synthesis
 * Hierarchical Metrical Structure Analysis, https://github.com/music-x-lab/Hierarchical-Metrical-Structure
 * Self-supervised Hierarchical Metrical Structure Analysis, https://github.com/music-x-lab/Self-Supervised-Metrical-Structure
-* Transformer VAE: https://github.com/music-x-lab/TransformerVAE
 * Large Vocabulary Chord Transcription via Structrual Decomposition: https://github.com/music-x-lab/ISMIR2019-Large-Vocabulary-Chord-Recognition
 
 ### Music Representation Learning and Generation
@@ -19,6 +18,7 @@
 * EC2VAE: Deep Music Analogy Via Latent Representation Disentanglement, https://github.com/buggyyang/Deep-Music-Analogy-Demos
 * PianoTree VAE: Structured Representation Learning for Polyphonic Music, https://github.com/ZZWaang/PianoTree-VAE
 * Learning interpretable representation for controllable polyphonic music generation, https://github.com/ZZWaang/polyphonic-chord-texture-disentanglement
+* Transformer VAE: https://github.com/music-x-lab/TransformerVAE
 * MuseBERT: Pre-training of Music Representation for Music Understanding and Controllable Generation, https://github.com/ZZWaang/musebert
 * AccoMontage: Accompaniment Arrangement via Phrase Selection and Style Transfer, https://github.com/zhaojw1998/AccoMontage
 * Hierarchical EC2VAE: Learning long-term music representations via hierarchical contextual constrains, https://github.com/SqWei17/hierarachical-ec2vae
