@@ -24,6 +24,7 @@
 * Hierarchical EC2VAE: Learning long-term music representations via hierarchical contextual constrains, https://github.com/SqWei17/hierarachical-ec2vae
 * Discovering Music Relations with Sequential Attention, https://github.com/music-x-lab/SeqAttn
 * BUTTER: A Representation Learning Framework for Bi-directional Music-Sentence Retrieval and Generation, https://github.com/ldzhangyx/BUTTER
+* Controllable Music Inpainting With Mixed-level and Disentangled Representation, https://github.com/SqWei17/Mixed-Encoding-for-Music-Inpainting
 
 ### Haptic Music Tutoring
 * A Computer-aided Multimodal Music Learning System with Curriculum: A Pilot Study, https://github.com/Daniel-Chin/A-V-H-General-Music-Tutoring-2022/
