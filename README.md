@@ -25,6 +25,8 @@
 * Discovering Music Relations with Sequential Attention, https://github.com/music-x-lab/SeqAttn
 * BUTTER: A Representation Learning Framework for Bi-directional Music-Sentence Retrieval and Generation, https://github.com/ldzhangyx/BUTTER
 * Controllable Music Inpainting With Mixed-level and Disentangled Representation, https://github.com/SqWei17/Mixed-Encoding-for-Music-Inpainting
+* Polyffusion: A Diffusion Model for Polyphonic Score Generation with Internal and External Controls, https://github.com/aik2mlj/polyffusion
+* Whole-Song Hierarchical Generation of Symbolic Music Using Cascaded Diffusion Models, https://github.com/ZZWaang/whole-song-gen
 
 ### Haptic Music Tutoring
 * Human-Centered LLM-Agent User Interface: A Position Paper, https://github.com/Daniel-Chin/Flute-X-GPT
@@ -32,3 +34,6 @@
 * Hyper-hybrid Flute: Simulating and Augmenting How Breath Affects Octave and Microtone, https://github.com/Daniel-Chin/HHF
 * Interactive Rainbow Score: A Visual-centered Multimodal Flute Tutoring System, https://github.com/Daniel-Chin/Interactive-Rainbow-Score-NIME2020
 
+### Function Alignment & Emergent Language
+* Learning Interpretable Low-dimensional Representation via Physical Symmetry, https://github.com/XuanjieLiu/Self-supervised-learning-via-Physical-Symmetry
+* Unsupervised Disentanglement of Content and Style via Variance-Invariance Constraints, https://github.com/Irislucent/variance-versus-invariance
