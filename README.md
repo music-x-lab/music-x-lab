@@ -17,7 +17,6 @@
 * Self-supervised Hierarchical Metrical Structure Analysis, https://github.com/music-x-lab/Self-Supervised-Metrical-Structure
 * Large Vocabulary Chord Transcription via Structrual Decomposition, https://github.com/music-x-lab/ISMIR2019-Large-Vocabulary-Chord-Recognition
 * Automatic Melody Reduction via Shortest Path Finding, https://github.com/ZZWaang/melody-reduction-algo
-* 
 
 ### Music Representation Learning and Generation
 
